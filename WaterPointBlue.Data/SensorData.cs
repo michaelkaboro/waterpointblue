@@ -9,4 +9,9 @@ namespace WaterPointBlue.Data
         public string CountyName { get; set; }
         public string DocType { get; set; }
     }
+
+    public class County
+    {
+       
+    }
 }
